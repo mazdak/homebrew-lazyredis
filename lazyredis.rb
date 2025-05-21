@@ -1,4 +1,4 @@
-class YourSoftware < Formula
+class Lazyredis < Formula
   desc "A fast and lazy Terminal UI for inspecting and manipulating Redis databases"
   homepage "https://github.com/mazdak/lazyredis"
   url "https://github.com/mazdak/lazyredis/releases/download/v0.5.0/lazyredis-0.5.0-aarch64-apple-darwin.tar.gz"
