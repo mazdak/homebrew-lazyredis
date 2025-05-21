@@ -7,7 +7,7 @@ class Lazyredis < Formula
 
   # Specify dependencies (if any)
   # depends_on "dependency1"
-  depends_on "cargo" => :build # Build-time dependency
+  # depends_on "rust" => :build # Build-time dependency
 
   def install
     # Installation instructions
