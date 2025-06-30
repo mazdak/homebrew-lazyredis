@@ -1,8 +1,8 @@
 class Lazyredis < Formula
   desc "A fast and lazy Terminal UI for inspecting and manipulating Redis databases"
   homepage "https://github.com/mazdak/lazyredis"
-  url "https://github.com/mazdak/lazyredis/releases/download/v0.7.0/lazyredis-0.7.0-aarch64-apple-darwin.tar.gz"
-  sha256 "28da050051cee6342aafa4a7fdcd915d03fd3f425637836f2f9609d8c538e884"
+  url "https://github.com/mazdak/lazyredis/releases/download/0.7.1/lazyredis-0.7.1-aarch64-apple-darwin.tar.gz"
+  sha256 "c5d1cd326c4167bb9d4bc8936d033c992e133a91227a13cdc843360b68d9ee8f"
   license "MIT" # or other license
 
   # Specify dependencies (if any)
